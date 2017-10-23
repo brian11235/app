@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/linbrian/Desktop/theVentillatorRetry/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/linbrian/Desktop/theVentillatorRetry/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2dd91b61c9ad28fe47d5fd11e77f601de5d60125/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/linbrian/Desktop/theVentillatorRetry/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="934c17f697616295002080c5a5c26dfb6a103790">
+        <dex dex="/Users/linbrian/Desktop/theVentillatorRetry/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7694ec888d6ad0e5fac4457045d7ddaa39a0be06/classes.dex" />
+    </item>
+
+</items>
